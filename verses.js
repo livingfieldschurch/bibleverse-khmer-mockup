@@ -1,16 +1,16 @@
 const VERSES = [
-  {
-    "month": 1,
-    "day": 10,
-    "title": "II.  Proclaim Christ: All have sinned",
-    "verse": "for all have sinned and fall short of the glory of God. Romans 3:23",
-    "questions": [
-      "Who has sinned?",
-      "What do we fall short of?",
-      "Do you recognize your sin?"
-    ]
-  },
-  {
+{
+  "month": 1,
+  "day": 10,
+  "title": "II. ប្រកាសអំពីព្រះគ្រីស្ទ៖ មនុស្សទាំងអស់បានធ្វើបាប",
+  "verse": "មនុស្ស​ទាំង​អស់​បាន​ធ្វើ​បាប​ ហើយ​ខ្វះ​មិន​ដល់​សិរី​រុងរឿង​របស់​ព្រះជាម្ចាស់​ រ៉ូម 3:23",
+  "questions": [
+    "តើអ្នកណាខ្លះបានធ្វើបាប?",
+    "តើយើងខ្វះមិនដល់អ្វី?",
+    "តើអ្នកទទួលស្គាល់អំពើបាបរបស់ខ្លួនទេ?"
+  ]
+},
+{
     "month": 1,
     "day": 17,
     "title": "II.  Proclaim Christ: Sin's penalty",
