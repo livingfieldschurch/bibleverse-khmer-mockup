@@ -99,7 +99,7 @@ function display(i) {
   const v = VERSES[currentIndex];
   const now = new Date();
   const date = new Date(now.getFullYear(), v.month - 1, v.day);
-  $("weekLabel").textContent = currentIndex === currentIndexForToday() ? "THIS WEEK" : "MEMORY VERSE";
+  $("weekLabel").textContent = currentIndex === currentIndexForToday() ? "សប្ដាហ៍នេះ" : "ខគម្ពីរសម្រាប់ចងចាំ";
   $("title").textContent = v.title.replace(/^I\.\s+|^II\.\s+|^III\.\s+|^IV\.\s+|^V\.\s+/, "");
   const pieces = v.title.split(":");
   $("topic").textContent = v.title.replace(/^[IVX]+\.\s*/, "").trim();  
