@@ -22,115 +22,115 @@ const VERSES = [
   ]
 },
   {
-    "month": 1,
-    "day": 24,
-    "title": "II.  Proclaim Christ: Christ paid the penalty",
-    "verse": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us. Romans 5:8",
-    "questions": [
-      "How did God demonstrate His love for us?",
-      "What were we to God?",
-      "What did Christ do for us?"
-    ]
-  },
-  {
-    "month": 1,
-    "day": 31,
-    "title": "II.  Proclaim Christ: Salvation not by works",
-    "verse": "For it is by grace you have been saved, through faith--and this not from yourselves, it is the gift of God--not by works, so that no one can boast. Ephesians 2:8-9",
-    "questions": [
-      "How are we saved?",
-      "What gift has God given us?",
-      "Why can't we boast?"
-    ]
-  },
-  {
-    "month": 2,
-    "day": 7,
-    "title": "II.  Proclaim Christ: Must receive Christ",
-    "verse": "Yet to all who received him, to those who believed in his name, he gave the right to become children of God-- John 1:12",
-    "questions": [
-      "To who did God give the right to become His children?",
-      "Have you received Him?",
-      "Do you believe in His name?"
-    ]
-  },
-  {
-    "month": 2,
-    "day": 14,
-    "title": "II.  Proclaim Christ: Assurance of Salvation",
-    "verse": "I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life. 1 John 5:13",
-    "questions": [
-      "How can we know that we have eternal life?",
-      "Who do we believe in?",
-      "Do you want eternal life?"
-    ]
-  },
-  {
-    "month": 2,
-    "day": 21,
-    "title": "III. Rely on God's Resources: His Spirit",
-    "verse": "Don't you know that you yourselves are God's temple and that God's Spirit lives in you? 1 Corinthians 3:16",
-    "questions": [
-      "Who is God’s temple?",
-      "Who lives in God’s temple?",
-      "Does God’s Spirit live in you?"
-    ]
-  },
-  {
-    "month": 2,
-    "day": 28,
-    "title": "III. Rely on God's Resources: His Strength",
-    "verse": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand. Isaiah 41:10",
-    "questions": [
-      "Why shouldn’t we fear?",
-      "Who is with us?",
-      "What will God do?"
-    ]
-  },
-  {
-    "month": 3,
-    "day": 6,
-    "title": "III. Rely on God's Resources: His Faithfulness",
-    "verse": "Because of the LORD's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness. Lamentations 3:22-23",
-    "questions": [
-      "Why are we not consumed?",
-      "What never fails?",
-      "What is new every morning?"
-    ]
-  },
-  {
-    "month": 3,
-    "day": 13,
-    "title": "III. Rely on God's Resources: His Peace",
-    "verse": "You will keep in perfect peace him whose mind is steadfast, because he trusts in you. Isaiah 26:3",
-    "questions": [
-      "What type of peace will we have?",
-      "What type of mind do we need?",
-      "Do you trust in God?"
-    ]
-  },
-  {
-    "month": 3,
-    "day": 20,
-    "title": "III. Rely on God's Resources: His Provision",
-    "verse": "He who did not spare his own Son, but gave him up for us all--how will he not also, along with him, graciously give us all things? Romans 8:32",
-    "questions": [
-      "Who did not spare his own Son?",
-      "Who did he give him up for?",
-      "What will he give us?"
-    ]
-  },
-  {
-    "month": 3,
-    "day": 27,
-    "title": "III. Rely on God's Resources: His Help in Temptation",
-    "verse": "Because he himself suffered when he was tempted, he is able to help those who are being tempted. Hebrews 2:18",
-    "questions": [
-      "Who is able to help us when we are tempted?",
-      "Why is he able to help us?",
-      "Do you call on him for help?"
-    ]
-  },
+  "month": 1,
+  "day": 24,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ ព្រះគ្រីស្ទបានទទួលទោសជំនួស",
+  "verse": "តែ​ឯ​ព្រះ ទ្រង់​សំដែង​សេចក្តី​ស្រឡាញ់​របស់​ទ្រង់ ដល់​យើង​រាល់​គ្នា​ឲ្យ​ឃើញ​ច្បាស់ ដោយ​ព្រះគ្រីស្ទ​បាន​សុគត​ជំនួស​យើង​រាល់​គ្នា នោះ​គឺ​ក្នុង​កាល​ដែល​យើង​នៅ​មាន​បាប​នៅ​ឡើយ​ផង រ៉ូម 5:8",
+  "questions": [
+    "តើព្រះបានបង្ហាញសេចក្តីស្រឡាញ់របស់ទ្រង់ចំពោះយើងដោយរបៀបណា?",
+    "តើយើងមានស្ថានភាពបែបណាចំពោះព្រះ?",
+    "តើព្រះគ្រីស្ទបានធ្វើអ្វីសម្រាប់យើង?"
+  ]
+},
+{
+  "month": 1,
+  "day": 31,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ សេចក្តីសង្គ្រោះមិនមែនដោយការប្រព្រឹត្ត",
+  "verse": "ដ្បិត​គឺ​ដោយ​ព្រះគុណ ដែល​អ្នក​រាល់​គ្នា​បាន​សង្គ្រោះ ដោយសារ​សេចក្តី​ជំនឿ ហើយ​សេចក្តី​នោះ​ក៏​មិន​មែន​កើត​ពី​អ្នក​រាល់​គ្នា​ដែរ គឺ​ជា​អំណោយ​ទាន​របស់​ព្រះ​វិញ ក៏​មិន​មែន​ដោយ​ការ​ប្រព្រឹត្ត​ដែរ ក្រែង​អ្នក​ណា​អួត​ខ្លួន អេភេសូរ 2:8-9",
+  "questions": [
+    "តើយើងបានសង្គ្រោះដោយរបៀបណា?",
+    "តើព្រះបានប្រទានអំណោយអ្វីដល់យើង?",
+    "ហេតុអ្វីយើងមិនអាចអួតខ្លួនបាន?"
+  ]
+},
+{
+  "month": 2,
+  "day": 7,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ ត្រូវទទួលព្រះគ្រីស្ទ",
+  "verse": "ប៉ុន្តែ​អស់​អ្នក​ណា​ដែល​ទទួល​ទ្រង់ គឺ​អស់​អ្នក​ដែល​ជឿ​ដល់​ព្រះនាម​ទ្រង់ នោះ​ទ្រង់​បាន​ប្រទាន​អំណាច ឲ្យ​បាន​ត្រឡប់​ជា​កូន​ព្រះ យ៉ូហាន 1:12",
+  "questions": [
+    "តើព្រះបានប្រទានសិទ្ធិឲ្យអ្នកណាក្លាយជាកូនរបស់ទ្រង់?",
+    "តើអ្នកបានទទួលព្រះអង្គហើយឬនៅ?",
+    "តើអ្នកជឿលើព្រះនាមរបស់ទ្រង់ឬទេ?"
+  ]
+},
+{
+  "month": 2,
+  "day": 14,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ ការប្រាកដចិត្តអំពីសេចក្តីសង្គ្រោះ",
+  "verse": "ខ្ញុំ​បាន​សរសេរ​សេចក្តី​ទាំង​នេះ ផ្ញើ​មក​អ្នក​រាល់​គ្នា ដែល​ជឿ​ដល់​ព្រះនាម​ព្រះរាជបុត្រា​នៃ​ព្រះ ដើម្បី​ឲ្យ​អ្នក​រាល់​គ្នា​បាន​ដឹង​ថា អ្នក​រាល់​គ្នា​មាន​ជីវិត​អស់​កល្ប​ជានិច្ច​ហើយ ១ យ៉ូហាន 5:13",
+  "questions": [
+    "តើយើងអាចដឹងថាយើងមានជីវិតអស់កល្បជានិច្ចដោយរបៀបណា?",
+    "តើយើងជឿលើអ្នកណា?",
+    "តើអ្នកចង់បានជីវិតអស់កល្បជានិច្ចឬទេ?"
+  ]
+},
+{
+  "month": 2,
+  "day": 21,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ ព្រះវិញ្ញាណរបស់ទ្រង់",
+  "verse": "តើ​អ្នក​រាល់​គ្នា​មិន​ដឹង​ទេ​ឬ​អី ថា​ខ្លួន​អ្នក​រាល់​គ្នា​ជា​ព្រះវិហារ​នៃ​ព្រះ ហើយ​ថា ព្រះវិញ្ញាណ​នៃ​ព្រះ ទ្រង់​សណ្ឋិត​ក្នុង​អ្នក​រាល់​គ្នា ១ កូរិនថូស 3:16",
+  "questions": [
+    "តើអ្នកណាជាព្រះវិហាររបស់ព្រះ?",
+    "តើអ្នកណាគង់នៅក្នុងព្រះវិហាររបស់ព្រះ?",
+    "តើព្រះវិញ្ញាណរបស់ព្រះគង់នៅក្នុងអ្នកឬទេ?"
+  ]
+},
+{
+  "month": 2,
+  "day": 28,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ កម្លាំងរបស់ទ្រង់",
+  "verse": "កុំ​ឲ្យ​ភ័យ​ខ្លាច​ឡើយ ដ្បិត​អញ​នៅ​ជា​មួយ​នឹង​ឯង កុំ​ឲ្យ​ស្រយុត​ចិត្ត​ឲ្យ​សោះ ពី​ព្រោះ​អញ​ជា​ព្រះ​នៃ​ឯង អញ​នឹង​ចំរើន​កំឡាំង​ដល់​ឯង អើ អញ​នឹង​ជួយ​ឯង អើ អញ​នឹង​ទ្រ​ឯង ដោយ​ដៃ​ស្តាំ​ដ៏​សុចរិត​របស់​អញ អេសាយ 41:10",
+  "questions": [
+    "ហេតុអ្វីយើងមិនគួរភ័យខ្លាច?",
+    "តើអ្នកណាគង់នៅជាមួយយើង?",
+    "តើព្រះនឹងធ្វើអ្វីសម្រាប់យើង?"
+  ]
+},
+{
+  "month": 3,
+  "day": 6,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ ភាពស្មោះត្រង់របស់ទ្រង់",
+  "verse": "គឺ​នឹក​ពី​សេចក្តី​នេះ​ថា កុំ​តែ​មាន​សេចក្តី​សប្បុរស​របស់​ព្រះយេហូវ៉ា នោះ​យើង​បាន​សូន្យ​បាត់​អស់​រលីង​ទៅ​ហើយ ឯ​សេចក្តី​មេត្តាករុណា​របស់​ទ្រង់ នោះ​មិន​ចេះ​ផុត​ឡើយ សេចក្តី​ទាំង​នោះ ចេះ​តែ​ថ្មី​ឡើង​រាល់​តែ​ព្រឹក​ជានិច្ច សេចក្តី​ស្មោះត្រង់​របស់​ទ្រង់​ធំ​ណាស់ បរិទេវ 3:22-23",
+  "questions": [
+    "ហេតុអ្វីយើងមិនត្រូវវិនាស?",
+    "តើអ្វីដែលមិនដែលផុតទៅ?",
+    "តើអ្វីដែលថ្មីរាល់ព្រឹក?"
+  ]
+},
+{
+  "month": 3,
+  "day": 13,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ សេចក្តីសុខសាន្តរបស់ទ្រង់",
+  "verse": "ឯ​អ្នក​ណា​ដែល​មាន​គំនិត​ជាប់​តាម​ទ្រង់ នោះ​ទ្រង់​នឹង​ថែ​រក្សា​អ្នក​នោះ ឲ្យ​មាន​សេចក្តី​សុខ​ពេញ​ខ្នាត ដោយ​ព្រោះ​គេ​ទុក​ចិត្ត​នឹង​ទ្រង់ អេសាយ 26:3",
+  "questions": [
+    "តើយើងនឹងមានសេចក្តីសុខសាន្តបែបណា?",
+    "តើយើងត្រូវមានចិត្តគំនិតបែបណា?",
+    "តើអ្នកទុកចិត្តលើព្រះឬទេ?"
+  ]
+},
+{
+  "month": 3,
+  "day": 20,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ ការផ្គត់ផ្គង់របស់ទ្រង់",
+  "verse": "ឯ​ព្រះអង្គ ដែល​មិន​បាន​សំចៃ​ទុក​នូវ​ព្រះរាជបុត្រា​ទ្រង់​បង្កើត គឺ​បាន​បញ្ជូន​ទៅ​ជំនួស​យើង​រាល់​គ្នា នោះ​តើ​មាន​ទំនង​អ្វី ឲ្យ​ទ្រង់​មិន​ប្រទាន​គ្រប់​ទាំង​អស់​មក​យើង ជា​មួយ​នឹង​ព្រះរាជបុត្រា​ទ្រង់​នោះ​ផង រ៉ូម 8:32",
+  "questions": [
+    "តើអ្នកណាមិនបានសំចៃព្រះរាជបុត្រារបស់ទ្រង់?",
+    "តើទ្រង់បានប្រគល់ព្រះរាជបុត្រារបស់ទ្រង់សម្រាប់អ្នកណា?",
+    "តើទ្រង់នឹងប្រទានអ្វីដល់យើង?"
+  ]
+},
+{
+  "month": 3,
+  "day": 27,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ ជំនួយក្នុងពេលមានការល្បួង",
+  "verse": "ដ្បិត​ដោយ​ព្រោះ​ទ្រង់​ផ្ទាល់​បាន​រង​ទុក្ខ ក្នុង​កាល​ដែល​ត្រូវ​ល្បួង នោះ​ទ្រង់​អាច​នឹង​ជួយ​ដល់​ពួក​អ្នក​ដែល​ត្រូវ​ល្បួង​បាន​ដែរ ហេព្រើរ 2:18",
+  "questions": [
+    "តើអ្នកណាអាចជួយយើងនៅពេលយើងត្រូវល្បួង?",
+    "ហេតុអ្វីទ្រង់អាចជួយយើងបាន?",
+    "តើអ្នកអំពាវនាវរកទ្រង់សុំជំនួយឬទេ?"
+  ]
+},
   {
     "month": 4,
     "day": 3,
