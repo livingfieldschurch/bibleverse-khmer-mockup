@@ -341,16 +341,16 @@ const VERSES = [
     ]
   },
   {
-    "month": 8,
-    "day": 14,
-    "title": "II.  Proclaim Christ: Sin's penalty",
-    "verse": "Just as man is destined to die once, and after that to face judgment, Hebrews 9:27",
-    "questions": [
-      "What does this verse tell us is certain?",
-      "What happens after death?",
-      "Are you ready?"
-    ]
-  },
+  "month": 8,
+  "day": 14,
+  "title": "II. ប្រកាសអំពីព្រះគ្រីស្ទ៖ ទោសនៃអំពើបាប",
+  "verse": "ហើយ​ដោយ​ព្រោះ​បាន​តម្រូវ​ឲ្យ​មនុស្ស​ទាំង​អស់​ស្លាប់​១​ដង រួច​សឹម​ជាប់​សេចក្តី​ជំនុំជំរះ ហេព្រើរ 9:27",
+  "questions": [
+    "តើខគម្ពីរនេះប្រាប់យើងថាអ្វីជារឿងដែលប្រាកដ?",
+    "តើមានអ្វីកើតឡើងបន្ទាប់ពីសេចក្តីស្លាប់?",
+    "តើអ្នកបានត្រៀមខ្លួនរួចហើយឬនៅ?"
+  ]
+},
   {
     "month": 8,
     "day": 21,
