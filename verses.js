@@ -296,39 +296,39 @@ const VERSES = [
       "What is Scripture useful for?"
     ]
   },
-  {
-    "month": 7,
-    "day": 17,
-    "title": "I.  Live the new life: Prayer",
-    "verse": "Do not be anxious about anything, but in everything, by prayer and petition, with thanksgiving, present your request to God. And the peace of God, which transcends all understanding will guard your hearts and your minds in Christ Jesus. Philippians 4:6-7",
-    "questions": [
-      "What makes you anxious?",
-      "What can we do when we become anxious?",
-      "What is the result of bringing our requests before God?"
-    ]
-  },
-  {
-    "month": 7,
-    "day": 24,
-    "title": "I.  Live the new life: Fellowship",
-    "verse": "And let us consider how we may spur one another on toward love and good deeds. Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another - and all the more as you see the Day approaching. Hebrews 10:24-25",
-    "questions": [
-      "How can we spur one another toward love and good deeds?",
-      "Why should we not stop meeting together?",
-      "What Day is approaching?"
-    ]
-  },
-  {
-    "month": 7,
-    "day": 31,
-    "title": "I.  Live the new life: Witnessing",
-    "verse": "I am not ashamed of the gospel, because it is the power of God for the salvation of everyone who believes: first for the Jew, then for the Gentile. Romans 1:16",
-    "questions": [
-      "What causes us to be ashamed of the Gospel?",
-      "Why shouldn’t we be ashamed of the Gospel?",
-      "Who is the Gospel for?"
-    ]
-  },
+{
+  "month": 7,
+  "day": 17,
+  "title": "រស់នៅក្នុងជីវិតថ្មី៖ ការអធិស្ឋាន",
+  "verse": "កុំ​ឲ្យ​ខ្វល់ខ្វាយ​អ្វី​ឡើយ ចូរ​ទូល​ដល់​ព្រះ ឲ្យ​ជ្រាប​ពី​សេចក្តី​សំណូម​របស់​អ្នក​រាល់​គ្នា​ក្នុង​គ្រប់​ការ​ទាំង​អស់ ដោយ​សេចក្តី​អធិស្ឋាន និង​ពាក្យ​ទូល​អង្វរ ទាំង​ពោល​ពាក្យ​អរ​ព្រះគុណ​ផង យ៉ាង​នោះ សេចក្តី​សុខ​សាន្ត​របស់​ព្រះ ដែល​ហួស​លើស​ពី​អស់​ទាំង​គំនិត និង​ជួយ​ការពារ​ចិត្ត ហើយ​និង​គំនិត​របស់​អ្នក​រាល់​គ្នា ក្នុង​ព្រះគ្រីស្ទយេស៊ូវ។ ភីលីព 4:6-7",
+  "questions": [
+    "តើអ្វីធ្វើឲ្យអ្នកខ្វល់ខ្វាយ?",
+    "តើយើងអាចធ្វើអ្វីបាន នៅពេលយើងមានការខ្វល់ខ្វាយ?",
+    "តើមានលទ្ធផលអ្វី នៅពេលយើងទូលសេចក្តីសំណូមរបស់យើងដល់ព្រះ?"
+  ]
+},
+{
+  "month": 7,
+  "day": 24,
+  "title": "រស់នៅក្នុងជីវិតថ្មី៖ ការប្រកបគ្នា",
+  "verse": "ហើយ​ត្រូវ​ឲ្យ​យើង​ពិចារណា​មើល​គ្នា​ទៅ​វិញ​ទៅ​មក​ដែរ ដើម្បី​នឹង​បណ្តាល​ឲ្យ​មាន​សេចក្តី​ស្រឡាញ់ ហើយ​ឲ្យ​ប្រព្រឹត្ត​ការ​ល្អ​ផង ឥត​លែង​ប្រជុំ​គ្នា ដូច​ជា​អ្នក​ខ្លះ​ធ្លាប់​នោះ​ឡើយ ត្រូវ​ឲ្យ​កំឡា​ចិត្ត​គ្នា​វិញ ឲ្យ​កាន់​តែ​ខ្លាំង​ឡើង​ផង តាម​ដែល​ឃើញ​ថា​ថ្ងៃ​នោះ​ជិត​មក​ដល់​ហើយ ហេព្រើរ 10:24-25",
+  "questions": [
+    "តើយើងអាចលើកទឹកចិត្តគ្នាទៅវិញទៅមកឲ្យមានសេចក្តីស្រឡាញ់ និងប្រព្រឹត្តការល្អដោយរបៀបណា?",
+    "ហេតុអ្វីយើងមិនគួរឈប់ប្រជុំគ្នា?",
+    "តើថ្ងៃអ្វីកំពុងខិតជិតមកដល់?"
+  ]
+},
+{
+  "month": 7,
+  "day": 31,
+  "title": "រស់នៅក្នុងជីវិតថ្មី៖ ការធ្វើបន្ទាល់",
+  "verse": "ដ្បិត​ខ្ញុំ​មិន​ខ្មាស​នឹង​ដំណឹង​ល្អ​នៃ​ព្រះគ្រីស្ទ​ទេ ពី​ព្រោះ​ជា​ព្រះចេស្តា​នៃ​ព្រះ សំរាប់​នឹង​ជួយ​សង្គ្រោះ​ដល់​អស់​អ្នក​ណា​ដែល​ជឿ គឺ​ដល់​សាសន៍​យូដា​ជា​មុន​សិន រួច​ដល់​សាសន៍​ក្រេក​ផង រ៉ូម 1:16",
+  "questions": [
+    "តើអ្វីធ្វើឲ្យយើងមានអារម្មណ៍ខ្មាសចំពោះដំណឹងល្អ?",
+    "ហេតុអ្វីយើងមិនគួរខ្មាសចំពោះដំណឹងល្អ?",
+    "តើដំណឹងល្អនេះសម្រាប់អ្នកណា?"
+  ]
+},
   {
     "month": 8,
     "day": 7,
@@ -351,131 +351,131 @@ const VERSES = [
     "តើអ្នកបានត្រៀមខ្លួនរួចហើយឬនៅ?"
   ]
 },
-  {
-    "month": 8,
-    "day": 21,
-    "title": "II.  Proclaim Christ: Christ paid the penalty",
-    "verse": "For Christ died for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive by the Spirit, 1 Peter 3:18",
-    "questions": [
-      "Who died for sins once for all?",
-      "Did He deserve to die?",
-      "Why did He die for us?"
-    ]
-  },
-  {
-    "month": 8,
-    "day": 28,
-    "title": "II.  Proclaim Christ: Salvation not by works",
-    "verse": "He saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit, Titus 3:5",
-    "questions": [
-      "Are we saved by our own righteousness?",
-      "Why did Christ save us?",
-      "What does the Holy Spirit do for us?"
-    ]
-  },
-  {
-    "month": 9,
-    "day": 4,
-    "title": "II.  Proclaim Christ: Must receive Christ",
-    "verse": "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with him, and he with me. Revelation 3:20",
-    "questions": [
-      "Who is knocking at the door?",
-      "What will happen when we open the door?",
-      "Do you want this type of fellowship?"
-    ]
-  },
-  {
-    "month": 9,
-    "day": 11,
-    "title": "II.  Proclaim Christ: Assurance of Salvation",
-    "verse": "I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life. John 5:24",
-    "questions": [
-      "Who’s word are we meant to hear?",
-      "How do we have eternal life?",
-      "What do we cross over from?"
-    ]
-  },
-  {
-    "month": 9,
-    "day": 18,
-    "title": "III. Rely on God's Resources: His Spirit",
-    "verse": "We have not received the spirit of the world but the Spirit who is from God, that we may understand what God has freely given us. 1 Corinthians 2:12",
-    "questions": [
-      "Who do we get the Spirit from?",
-      "Why was the Spirit given to us?",
-      "Do you want the Spirit?"
-    ]
-  },
-  {
-    "month": 9,
-    "day": 25,
-    "title": "III. Rely on God's Resources: His Strength",
-    "verse": "I can do everything through him who gives me strength. Philippians 4:13",
-    "questions": [
-      "Is there anything we can’t do?",
-      "Who can we do everything through?",
-      "Who gives us the strength to do everything?"
-    ]
-  },
-  {
-    "month": 10,
-    "day": 2,
-    "title": "III. Rely on God's Resources: His Faithfulness",
-    "verse": "God is not a man, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill? Numbers 23:19",
-    "questions": [
-      "Does God lie?",
-      "Does God change His mind?",
-      "In what way are you not like God?"
-    ]
-  },
-  {
-    "month": 10,
-    "day": 9,
-    "title": "III. Rely on God's Resources: His Peace",
-    "verse": "Cast all your anxiety on him because he cares for you. 1 Peter 5:7",
-    "questions": [
-      "How often do you worry?",
-      "What are we to do with our anxiety?",
-      "Why can we give our anxiety to God?"
-    ]
-  },
-  {
-    "month": 10,
-    "day": 16,
-    "title": "III. Rely on God's Resources: His Provision",
-    "verse": "And my God will meet all your needs according to his glorious riches in Christ Jesus. Philippians 4:19",
-    "questions": [
-      "What needs do you have?",
-      "What is God’s promise in this verse?",
-      "Will you rely on God’s resource?"
-    ]
-  },
-  {
-    "month": 10,
-    "day": 23,
-    "title": "III. Rely on God's Resources: His Help in Temptation",
-    "verse": "How can a young man keep his way pure? By living according to your word. I have hidden your word in my heart that I might not sin against you. Psalm 119: 9,11",
-    "questions": [
-      "How can you keep your way pure?",
-      "What is the purpose of hiding God’s Word in your heart?",
-      "Have you hidden God’s Word in your heart?"
-    ]
-  },
-  {
-    "month": 10,
-    "day": 30,
-    "title": "IV. Be Christ's Disciple: Put Christ first",
-    "verse": "Then he said to them all: \"If anyone would come after me, he must deny himself and take up his cross daily and follow me. Luke 9:23",
-    "questions": [
-      "What does it mean to follow Jesus?",
-      "What does it mean to deny yourself?",
-      "What does it mean to take up your cross daily?"
-    ]
-  },
+{
+  "month": 8,
+  "day": 21,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ ព្រះគ្រីស្ទបានទទួលទោសជំនួស",
+  "verse": "ដ្បិត​ព្រះគ្រីស្ទ​ក៏​បាន​រង​ទុក្ខ​ម្តង​ជា​ដរាប ដោយ​ព្រោះ​អំពើ​បាប គឺ​ព្រះ​ដ៏​សុចរិត​ជំនួស​មនុស្ស​ទុច្ចរិត ដើម្បី​នឹង​នាំ​យើង​ទៅ​ឯ​ព្រះ ទ្រង់​ត្រូវ​គេ​សំឡាប់​ខាង​សាច់​ឈាម តែ​បាន​រស់​ឡើង​វិញ​ខាង​វិញ្ញាណ ១ ពេត្រុស 3:18",
+  "questions": [
+    "តើអ្នកណាបានសុគតដោយព្រោះអំពើបាបម្តងជាដរាប?",
+    "តើទ្រង់សមនឹងសុគតឬទេ?",
+    "ហេតុអ្វីបានជាទ្រង់សុគតជំនួសយើង?"
+  ]
+},
+{
+  "month": 8,
+  "day": 28,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ សេចក្តីសង្គ្រោះមិនមែនដោយការប្រព្រឹត្ត",
+  "verse": "ទ្រង់​បាន​ជួយ​សង្គ្រោះ​យើង មិន​មែន​ដោយ​ការ​សុចរិត​ដែល​យើង​បាន​ប្រព្រឹត្ត​នោះ​ទេ គឺ​ដោយ​សេចក្តី​មេត្តា​ករុណា​របស់​ទ្រង់​វិញ ដោយ​សេចក្តី​លាង​ជំរះ​នៃ​កំណើត​ថ្មី និង​ការ​កែ​ឡើង​វិញ ដោយ​ព្រះវិញ្ញាណ​បរិសុទ្ធ ទីតុស 3:5",
+  "questions": [
+    "តើយើងបានទទួលសេចក្តីសង្គ្រោះដោយសេចក្តីសុចរិតរបស់ខ្លួនឬទេ?",
+    "ហេតុអ្វីបានជាព្រះគ្រីស្ទជួយសង្គ្រោះយើង?",
+    "តើព្រះវិញ្ញាណបរិសុទ្ធធ្វើអ្វីសម្រាប់យើង?"
+  ]
+},
+{
+  "month": 9,
+  "day": 4,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ ត្រូវទទួលព្រះគ្រីស្ទ",
+  "verse": "មើល អញ​ឈរ​នៅ​មាត់​ទ្វារ ហើយ​គោះ បើ​អ្នក​ណា​ឮ​សំឡេង​អញ ហើយ​បើក​ទ្វារ នោះ​អញ​នឹង​ចូល​ទៅ​ឯ​អ្នក​នោះ ហើយ​នឹង​បរិភោគ​ជា​មួយ​នឹង​អ្នក​នោះ ហើយ​អ្នក​នោះ​ជា​មួយ​នឹង​អញ​ដែរ វិវរណៈ 3:20",
+  "questions": [
+    "តើអ្នកណាកំពុងឈរនៅមាត់ទ្វារ ហើយគោះ?",
+    "តើមានអ្វីកើតឡើង នៅពេលយើងបើកទ្វារ?",
+    "តើអ្នកចង់មានការប្រកបគ្នាបែបនេះជាមួយព្រះគ្រីស្ទឬទេ?"
+  ]
+},
+{
+  "month": 9,
+  "day": 11,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ ការធានានៃសេចក្តីសង្គ្រោះ",
+  "verse": "ខ្ញុំ​ប្រាប់​អ្នក​រាល់​គ្នា​ជា​ប្រាកដ​ថា អ្នក​ណា​ដែល​ឮ​ពាក្យ​ខ្ញុំ ហើយ​ជឿ​ដល់​ព្រះអង្គ​ដែល​ចាត់​ខ្ញុំ​ឲ្យ​មក នោះ​មាន​ជីវិត​អស់​កល្ប​ជានិច្ច ហើយ​មិន​ត្រូវ​ជាប់​ក្នុង​សេចក្តី​ជំនុំជំរះ​ទេ គឺ​បាន​ផុត​ពី​សេចក្តី​ស្លាប់​ទៅ​ឯ​ជីវិត​វិញ យ៉ូហាន 5:24",
+  "questions": [
+    "តើយើងត្រូវស្តាប់ព្រះបន្ទូលរបស់អ្នកណា?",
+    "តើយើងទទួលបានជីវិតអស់កល្បជានិច្ចដោយរបៀបណា?",
+    "តើយើងបានផុតពីអ្វីទៅឯអ្វី?"
+  ]
+},
+{
+  "month": 9,
+  "day": 18,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ ព្រះវិញ្ញាណរបស់ទ្រង់",
+  "verse": "ឯ​យើង​រាល់​គ្នា​មិន​បាន​ទទួល​វិញ្ញាណ​នៃ​លោកីយ៍​ទេ គឺ​បាន​ទទួល​ព្រះវិញ្ញាណ​ដែល​មក​ពី​ព្រះ​វិញ ដើម្បី​ឲ្យ​យើង​បាន​ស្គាល់​របស់​ទាំង​ប៉ុន្មាន ដែល​ព្រះ​បាន​ប្រទាន​មក​យើង​ដោយ​ឥត​គិត​ថ្លៃ ១ កូរិនថូស 2:12",
+  "questions": [
+    "តើយើងបានទទួលព្រះវិញ្ញាណពីអ្នកណា?",
+    "ហេតុអ្វីបានជាព្រះវិញ្ញាណត្រូវបានប្រទានមកយើង?",
+    "តើអ្នកចង់ទទួលព្រះវិញ្ញាណឬទេ?"
+  ]
+},
+{
+  "month": 9,
+  "day": 25,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ កម្លាំងរបស់ទ្រង់",
+  "verse": "ខ្ញុំ​អាច​ធ្វើ​ការ​ទាំង​អស់​បាន ដោយ​ព្រះគ្រីស្ទ​ដែល​ប្រទាន​កម្លាំង​ដល់​ខ្ញុំ ភីលីព 4:13",
+  "questions": [
+    "តើមានអ្វីដែលយើងមិនអាចធ្វើបានឬទេ?",
+    "តើយើងអាចធ្វើអ្វីៗទាំងអស់តាមរយៈអ្នកណា?",
+    "តើអ្នកណាប្រទានកម្លាំងឲ្យយើងធ្វើអ្វីៗទាំងអស់?"
+  ]
+},
+{
+  "month": 10,
+  "day": 2,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ ភាពស្មោះត្រង់របស់ទ្រង់",
+  "verse": "ព្រះ​មិន​មែន​ជា​មនុស្ស ដែល​នឹង​ភូត​កុហក​ឡើយ ក៏​មិន​មែន​ជា​កូន​មនុស្ស ដែល​នឹង​ប្រែ​ចិត្ត​ដែរ តើ​ទ្រង់​បាន​មាន​បន្ទូល​ហើយ នឹង​មិន​ធ្វើ​តាម​ឬ? ឬ​ទ្រង់​បាន​សន្យា​ហើយ នឹង​មិន​សំរេច​តាម​ឬ? ជនគណនា 23:19",
+  "questions": [
+    "តើព្រះភូតកុហកឬទេ?",
+    "តើព្រះផ្លាស់ប្តូរព្រះទ័យរបស់ទ្រង់ឬទេ?",
+    "តើមានផ្នែកណាខ្លះដែលអ្នកមិនដូចព្រះ?"
+  ]
+},
+{
+  "month": 10,
+  "day": 9,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ សេចក្តីសុខសាន្តរបស់ទ្រង់",
+  "verse": "ចូរ​ផ្ទេរ​សេចក្តី​ខ្វល់ខ្វាយ​ទាំង​អស់​របស់​អ្នក​រាល់​គ្នា ទៅ​លើ​ទ្រង់​ចុះ ពី​ព្រោះ​ទ្រង់​យក​ព្រះទ័យ​ទុក​ដាក់​ចំពោះ​អ្នក​រាល់​គ្នា ១ ពេត្រុស 5:7",
+  "questions": [
+    "តើអ្នកខ្វល់ខ្វាយញឹកញាប់ប៉ុណ្ណា?",
+    "តើយើងត្រូវធ្វើអ្វីជាមួយសេចក្តីខ្វល់ខ្វាយរបស់យើង?",
+    "ហេតុអ្វីយើងអាចផ្ទេរសេចក្តីខ្វល់ខ្វាយរបស់យើងទៅលើព្រះ?"
+  ]
+},
+{
+  "month": 10,
+  "day": 16,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ ការផ្គត់ផ្គង់របស់ទ្រង់",
+  "verse": "ឯ​ព្រះ​នៃ​ខ្ញុំ ទ្រង់​នឹង​ផ្គត់ផ្គង់​គ្រប់​ទាំង​សេចក្តី​ដែល​អ្នក​រាល់​គ្នា​ត្រូវ​ការ តាម​ភោគ​ទ្រព្យ​ដ៏​ឧត្តម​របស់​ទ្រង់ ក្នុង​ព្រះគ្រីស្ទយេស៊ូវ ភីលីព 4:19",
+  "questions": [
+    "តើអ្នកមានសេចក្តីត្រូវការអ្វីខ្លះ?",
+    "តើអ្វីជាសេចក្តីសន្យារបស់ព្រះនៅក្នុងខគម្ពីរនេះ?",
+    "តើអ្នកនឹងពឹងផ្អែកលើការផ្គត់ផ្គង់របស់ព្រះឬទេ?"
+  ]
+},
+{
+  "month": 10,
+  "day": 23,
+  "title": "ពឹងផ្អែកលើធនធានរបស់ព្រះ៖ ជំនួយរបស់ទ្រង់ក្នុងពេលមានការល្បួង",
+  "verse": "តើ​កំលោះ​អាច​នឹង​រក្សា​ផ្លូវ​ខ្លួន ឲ្យ​បាន​បរិសុទ្ធ​ដោយ​អ្វី គឺ​ដោយ​ប្រយ័ត្ន​ខ្លួន​តាម​ព្រះបន្ទូល​របស់​ទ្រង់ ទូលបង្គំ​បាន​ទុក​ព្រះបន្ទូល​ទ្រង់ នៅ​ក្នុង​ចិត្ត​ទូលបង្គំ ដើម្បី​កុំ​ឲ្យ​ទូលបង្គំ​ប្រព្រឹត្ត​អំពើ​បាប​ទាស់​នឹង​ទ្រង់ ទំនុកដំកើង 119:9,11",
+  "questions": [
+    "តើអ្នកអាចរក្សាផ្លូវរបស់អ្នកឲ្យបរិសុទ្ធដោយរបៀបណា?",
+    "តើការទុកព្រះបន្ទូលរបស់ព្រះនៅក្នុងចិត្តមានគោលបំណងអ្វី?",
+    "តើអ្នកបានទុកព្រះបន្ទូលរបស់ព្រះនៅក្នុងចិត្តរបស់អ្នកហើយឬនៅ?"
+  ]
+},
+{
+  "month": 10,
+  "day": 30,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ ដាក់ព្រះគ្រីស្ទជាទីមួយ",
+  "verse": "រួច​ទ្រង់​មាន​បន្ទូល​ទៅ​គេ​ទាំង​អស់​គ្នា​ថា បើ​អ្នក​ណា​ចង់​មក​តាម​ក្រោយ​ខ្ញុំ នោះ​ត្រូវ​ឲ្យ​អ្នក​នោះ​លះ​ចោល​ខ្លួន​ឯង ហើយ​រាល់​ថ្ងៃ​ត្រូវ​លី​ឈើ​ឆ្កាង​ខ្លួន មក​តាម​ខ្ញុំ​ចុះ លូកា 9:23",
+  "questions": [
+    "តើការដើរតាមព្រះយេស៊ូវមានន័យដូចម្តេច?",
+    "តើការលះចោលខ្លួនឯងមានន័យដូចម្តេច?",
+    "តើការលីឈើឆ្កាងរបស់ខ្លួនរាល់ថ្ងៃមានន័យដូចម្តេច?"
+  ]
+},
   {
     "month": 11,
     "day": 6,
-    "title": "IV. Be Christ's Disciple: Separate from the world",
+    "title": "Be Christ's Disciple: Separate from the world",
     "verse": "Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is--his good, pleasing and perfect will. Romans 12:2",
     "questions": [
       "What is the pattern of this world?",
@@ -486,7 +486,7 @@ const VERSES = [
   {
     "month": 11,
     "day": 13,
-    "title": "IV. Be Christ's Disciple: Be steadfast",
+    "title": "Be Christ's Disciple: Be steadfast",
     "verse": "Consider him who endured such opposition from sinful men, so that you will not grow weary and lose heart. Hebrews 12:3",
     "questions": [
       "What does it mean to be steadfast?",
@@ -497,7 +497,7 @@ const VERSES = [
   {
     "month": 11,
     "day": 20,
-    "title": "IV. Be Christ's Disciple: Serve others",
+    "title": "Be Christ's Disciple: Serve others",
     "verse": "For we do not preach ourselves, but Jesus Christ as Lord, and ourselves as your servants for Jesus' sake. 2 Corinthians 4:5",
     "questions": [
       "Who do we preach as Lord?",
@@ -508,7 +508,7 @@ const VERSES = [
   {
     "month": 11,
     "day": 27,
-    "title": "IV. Be Christ's Disciple: Give generously",
+    "title": "Be Christ's Disciple: Give generously",
     "verse": "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. Each man should give what he has decided in his heart to give, not reluctantly or under compulsion, for God loves a cheerful giver. 2 Corinthians 9:6-7",
     "questions": [
       "What will you reap if you sow sparingly?",
@@ -519,7 +519,7 @@ const VERSES = [
   {
     "month": 12,
     "day": 4,
-    "title": "IV. Be Christ's Disciple: Develop world vision",
+    "title": "Be Christ's Disciple: Develop world vision",
     "verse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age. Matthew 28:19-20",
     "questions": [
       "What is God calling us to do?",
@@ -530,7 +530,7 @@ const VERSES = [
   {
     "month": 12,
     "day": 11,
-    "title": "V.  Grow in Christ's Likeness: Love",
+    "title": "Grow in Christ's Likeness: Love",
     "verse": "Dear children, let us not love with words or tongue but with actions and in truth. 1 John 3:18",
     "questions": [
       "How are we to love?",
@@ -541,7 +541,7 @@ const VERSES = [
   {
     "month": 12,
     "day": 18,
-    "title": "V.  Grow in Christ's Likeness: Humility",
+    "title": "Grow in Christ's Likeness: Humility",
     "verse": "Young men, in the same way be submissive to those who are older. All of you, clothe yourselves with humility toward one another, because, \"God opposes the proud but gives grace to the humble.\" Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time. 1 Peter 5:5-6",
     "questions": [
       "What are we to clothe ourselves in?",
@@ -552,7 +552,7 @@ const VERSES = [
   {
     "month": 12,
     "day": 25,
-    "title": "V.  Grow in Christ's Likeness: Purity",
+    "title": "Grow in Christ's Likeness: Purity",
     "verse": "Dear friends, I urge you, as aliens and strangers in the world, to abstain from sinful desires, which war against your soul. 1 Peter 2:11",
     "questions": [
       "What are we urged to do?",
