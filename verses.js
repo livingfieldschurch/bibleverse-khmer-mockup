@@ -11,16 +11,16 @@ const VERSES = [
   ]
 },
 {
-    "month": 1,
-    "day": 17,
-    "title": "II.  Proclaim Christ: Sin's penalty",
-    "verse": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord. Romans 6:23",
-    "questions": [
-      "What is the wages of sin?",
-      "What is the gift of God?",
-      "Through whom do we get that gift?"
-    ]
-  },
+  "month": 1,
+  "day": 17,
+  "title": "II. ប្រកាសអំពីព្រះគ្រីស្ទ៖ ទោសនៃអំពើបាប",
+  "verse": "ដ្បិត​ឈ្នួល​របស់​អំពើ​បាប នោះ​ជា​សេចក្តី​ស្លាប់ តែ​អំណោយ​ទាន​នៃ​ព្រះ​វិញ គឺ​ជា​ជីវិត​ដ៏​នៅ​អស់​កល្ប​ជានិច្ច ដោយ​ព្រះគ្រីស្ទយេស៊ូវ ជា​ព្រះអម្ចាស់​នៃ​យើង​រាល់​គ្នា។ រ៉ូម 6:23",
+  "questions": [
+    "តើឈ្នួលរបស់អំពើបាបគឺជាអ្វី?",
+    "តើអំណោយទានរបស់ព្រះគឺជាអ្វី?",
+    "តើយើងទទួលបានអំណោយទាននោះតាមរយៈអ្នកណា?"
+  ]
+},
   {
     "month": 1,
     "day": 24,
