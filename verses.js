@@ -274,28 +274,28 @@ const VERSES = [
     "តើអ្នកកំពុងរស់នៅសម្រាប់អ្នកណា?"
   ]
 },
-  {
-    "month": 7,
-    "day": 3,
-    "title": "I.  Live the new life: Obedience to Christ",
-    "verse": "Therefore, I urge you, brothers, in view of God's mercy, to offer your bodies as living sacrifices, holy and pleasing to God - this is your spiritual act of worship. Romans 12:1",
-    "questions": [
-      "Why should we offer our bodies as living sacrifices to God?",
-      "What does living sacrifice mean?",
-      "How is this a spiritual act of worship?"
-    ]
-  },
-  {
-    "month": 7,
-    "day": 10,
-    "title": "I.  Live the new life: The Word",
-    "verse": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness. 2 Timothy 3:16",
-    "questions": [
-      "What does God-breathed mean?",
-      "Who wrote the Bible?",
-      "What is Scripture useful for?"
-    ]
-  },
+{
+  "month": 7,
+  "day": 3,
+  "title": "រស់នៅក្នុងជីវិតថ្មី៖ ការស្តាប់បង្គាប់ព្រះគ្រីស្ទ",
+  "verse": "ដូច្នេះ បង​ប្អូន​អើយ ដោយ​សេចក្តី​មេត្តា​ករុណា​របស់​ព្រះ នោះ​ខ្ញុំ​ទូន្មាន​អ្នក​រាល់​គ្នា ឲ្យ​ថ្វាយ​រូប​កាយ​ខ្លួន ទុក​ជា​យញ្ញបូជា​រស់ បរិសុទ្ធ ហើយ​គាប់​ដល់​ព្រះ ដែល​ជា​ការ​បំរើ​ដ៏​គួរ​សម​របស់​អ្នក​រាល់​គ្នា រ៉ូម 12:1",
+  "questions": [
+    "ហេតុអ្វីយើងគួរថ្វាយរូបកាយរបស់យើងទុកជាយញ្ញបូជារស់ដល់ព្រះ?",
+    "តើយញ្ញបូជារស់មានន័យដូចម្តេច?",
+    "តើការនេះជាការថ្វាយបង្គំខាងវិញ្ញាណដោយរបៀបណា?"
+  ]
+},
+{
+  "month": 7,
+  "day": 10,
+  "title": "រស់នៅក្នុងជីវិតថ្មី៖ ព្រះបន្ទូល",
+  "verse": "គ្រប់​ទាំង​គម្ពីរ​បាន​ដោយ​ព្រះ​ដក​ដង្ហើម​បញ្ចូល ហើយ​មាន​ប្រយោជន៍​សំរាប់​នឹង​បង្រៀន កែ​តម្រង់ ផ្ចាញ់ផ្ចាល និង​ហ្វឹកហាត់​ខាង​ឯ​សេចក្តី​សុចរិត ២ ធីម៉ូថេ 3:16",
+  "questions": [
+    "តើព្រះដកដង្ហើមបញ្ចូលមានន័យដូចម្តេច?",
+    "តើអ្នកណាបានសរសេរព្រះគម្ពីរ?",
+    "តើព្រះគម្ពីរមានប្រយោជន៍សម្រាប់អ្វីខ្លះ?"
+  ]
+},
 {
   "month": 7,
   "day": 17,
@@ -329,17 +329,17 @@ const VERSES = [
     "តើដំណឹងល្អនេះសម្រាប់អ្នកណា?"
   ]
 },
-  {
-    "month": 8,
-    "day": 7,
-    "title": "II.  Proclaim Christ: All have sinned",
-    "verse": "We all, like sheep, have gone astray, each of us has turned to his own way; and the LORD has laid on him the iniquity of us all. Isaiah 53:6",
-    "questions": [
-      "Why are we like sheep?",
-      "How did we go astray?",
-      "Who took our iniquity?"
-    ]
-  },
+{
+  "month": 8,
+  "day": 7,
+  "title": "ប្រកាសអំពីព្រះគ្រីស្ទ៖ មនុស្សទាំងអស់បានធ្វើបាប",
+  "verse": "យើង​ទាំង​អស់​គ្នា​បាន​ទាស​ចេញ​ដូច​ជា​ចៀម គឺ​យើង​បាន​បែរ​ចេញ​ទៅ​តាម​ផ្លូវ​យើង​រៀង​ខ្លួន ហើយ​ព្រះយេហូវ៉ា​បាន​ទំលាក់​អំពើ​ទុច្ចរិត​របស់​យើង​ទាំង​អស់​គ្នា​ទៅ​លើ​ទ្រង់ អេសាយ 53:6",
+  "questions": [
+    "ហេតុអ្វីបានជាយើងដូចជាចៀម?",
+    "តើយើងបានវង្វេងចេញពីផ្លូវដោយរបៀបណា?",
+    "តើអ្នកណាបានទទួលអំពើទុច្ចរិតរបស់យើង?"
+  ]
+},
   {
   "month": 8,
   "day": 14,
@@ -472,92 +472,92 @@ const VERSES = [
     "តើការលីឈើឆ្កាងរបស់ខ្លួនរាល់ថ្ងៃមានន័យដូចម្តេច?"
   ]
 },
-  {
-    "month": 11,
-    "day": 6,
-    "title": "Be Christ's Disciple: Separate from the world",
-    "verse": "Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is--his good, pleasing and perfect will. Romans 12:2",
-    "questions": [
-      "What is the pattern of this world?",
-      "How are we to be transformed?",
-      "Do you desire God’s will?"
-    ]
-  },
-  {
-    "month": 11,
-    "day": 13,
-    "title": "Be Christ's Disciple: Be steadfast",
-    "verse": "Consider him who endured such opposition from sinful men, so that you will not grow weary and lose heart. Hebrews 12:3",
-    "questions": [
-      "What does it mean to be steadfast?",
-      "Who are we to consider?",
-      "Why should we not grow weary?"
-    ]
-  },
-  {
-    "month": 11,
-    "day": 20,
-    "title": "Be Christ's Disciple: Serve others",
-    "verse": "For we do not preach ourselves, but Jesus Christ as Lord, and ourselves as your servants for Jesus' sake. 2 Corinthians 4:5",
-    "questions": [
-      "Who do we preach as Lord?",
-      "Who are we to serve?",
-      "For who’s sake do we serve?"
-    ]
-  },
-  {
-    "month": 11,
-    "day": 27,
-    "title": "Be Christ's Disciple: Give generously",
-    "verse": "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. Each man should give what he has decided in his heart to give, not reluctantly or under compulsion, for God loves a cheerful giver. 2 Corinthians 9:6-7",
-    "questions": [
-      "What will you reap if you sow sparingly?",
-      "What will you reap if you sow generously?",
-      "What type of giver does God love?"
-    ]
-  },
-  {
-    "month": 12,
-    "day": 4,
-    "title": "Be Christ's Disciple: Develop world vision",
-    "verse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age. Matthew 28:19-20",
-    "questions": [
-      "What is God calling us to do?",
-      "In who’s name are we to make disciples?",
-      "Who will be with us?"
-    ]
-  },
-  {
-    "month": 12,
-    "day": 11,
-    "title": "Grow in Christ's Likeness: Love",
-    "verse": "Dear children, let us not love with words or tongue but with actions and in truth. 1 John 3:18",
-    "questions": [
-      "How are we to love?",
-      "What are we not to love with?",
-      "How have you loved others?"
-    ]
-  },
-  {
-    "month": 12,
-    "day": 18,
-    "title": "Grow in Christ's Likeness: Humility",
-    "verse": "Young men, in the same way be submissive to those who are older. All of you, clothe yourselves with humility toward one another, because, \"God opposes the proud but gives grace to the humble.\" Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time. 1 Peter 5:5-6",
-    "questions": [
-      "What are we to clothe ourselves in?",
-      "What does God oppose?",
-      "Why are we to humble ourselves?"
-    ]
-  },
-  {
-    "month": 12,
-    "day": 25,
-    "title": "Grow in Christ's Likeness: Purity",
-    "verse": "Dear friends, I urge you, as aliens and strangers in the world, to abstain from sinful desires, which war against your soul. 1 Peter 2:11",
-    "questions": [
-      "What are we urged to do?",
-      "What are we to the world?",
-      "What is at war with our souls?"
-    ]
-  }
-];
+{
+  "month": 11,
+  "day": 6,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ បែកចេញពីលោកីយ៍",
+  "verse": "កុំ​ឲ្យ​ត្រាប់​តាម​សម័យ​នេះ​ឡើយ ចូរ​ឲ្យ​អ្នក​រាល់​គ្នា​បាន​ផ្លាស់​ប្រែ​វិញ ដោយ​គំនិត​បាន​កែ​ជា​ថ្មី​ឡើង ដើម្បី​នឹង​អាច​ល​មើល​ឲ្យ​បាន​ស្គាល់​បំណង​ព្រះហឫទ័យ​នៃ​ព្រះ ដែល​ល្អ ស្រួល​ទទួល ហើយ​គ្រប់​លក្ខណ៍​ផង រ៉ូម 12:2",
+  "questions": [
+    "តើអ្វីជាគំរូរបស់លោកីយ៍នេះ?",
+    "តើយើងត្រូវផ្លាស់ប្រែដោយរបៀបណា?",
+    "តើអ្នកប្រាថ្នាចង់ធ្វើតាមបំណងព្រះហឫទ័យរបស់ព្រះឬទេ?"
+  ]
+},
+{
+  "month": 11,
+  "day": 13,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ ឈរមាំមួន",
+  "verse": "ដូច្នេះ ចូរ​ពិចារណា​មើល​ទ្រង់ ដែល​ទ្រង់​បាន​ទ្រាំទ្រ​នឹង​ពួក​មនុស្ស​មាន​បាប ដែល​ធ្វើ​ទទឹងទទែង​នឹង​ទ្រង់​ជា​ខ្លាំង​ម៉្លេះ ក្រែង​លោ​អ្នក​រាល់​គ្នា​ត្រូវ​នឿយ​ហត់ ហើយ​រសាយ​ចិត្ត​ចេញ ហេព្រើរ 12:3",
+  "questions": [
+    "តើការឈរមាំមួនមានន័យដូចម្តេច?",
+    "តើយើងត្រូវពិចារណាមើលអ្នកណា?",
+    "ហេតុអ្វីយើងមិនគួរនឿយហត់ និងរសាយចិត្ត?"
+  ]
+},
+{
+  "month": 11,
+  "day": 20,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ បម្រើអ្នកដទៃ",
+  "verse": "ដ្បិត​យើង​ខ្ញុំ​មិន​មែន​ប្រកាស​ពី​ខ្លួន​យើង​ខ្ញុំ​ទេ គឺ​ពី​ព្រះគ្រីស្ទយេស៊ូវ​ជា​ព្រះអម្ចាស់​វិញ ហើយ​ពី​ខ្លួន​យើង​ខ្ញុំ​ថា​ជា​អ្នក​បំរើ​របស់​អ្នក​រាល់​គ្នា ដោយ​ព្រោះ​ព្រះយេស៊ូវ ២ កូរិនថូស 4:5",
+  "questions": [
+    "តើយើងប្រកាសថាអ្នកណាជាព្រះអម្ចាស់?",
+    "តើយើងត្រូវបម្រើអ្នកណា?",
+    "តើយើងបម្រើដោយព្រោះអ្នកណា?"
+  ]
+},
+{
+  "month": 11,
+  "day": 27,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ ផ្តល់ដោយសប្បុរស",
+  "verse": "ឯ​សេចក្តី​នេះ គឺ​អ្នក​ណា​ដែល​ព្រោះ​តិច នោះ​នឹង​ច្រូត​តិច​ដែរ ហើយ​អ្នក​ណា​ដែល​ព្រោះ​ច្រើន នោះ​នឹង​ច្រូត​ច្រើន​ដែរ ចូរ​ឲ្យ​គ្រប់​គ្នា​ធ្វើ​តាម​ដែល​ខ្លួន​បាន​សំរេច​ក្នុង​ចិត្ត​ចុះ មិន​មែន​ដោយ​ស្តាយ ឬ​ដោយ​បង្ខំ​ទេ ដ្បិត​ព្រះ​ទ្រង់​ស្រឡាញ់​ដល់​អ្នក​ណា​ដែល​ឲ្យ​ដោយ​អំណរ ២ កូរិនថូស 9:6-7",
+  "questions": [
+    "តើអ្នកនឹងច្រូតបានអ្វី ប្រសិនបើអ្នកព្រោះតិច?",
+    "តើអ្នកនឹងច្រូតបានអ្វី ប្រសិនបើអ្នកព្រោះច្រើន?",
+    "តើព្រះស្រឡាញ់អ្នកផ្តល់បែបណា?"
+  ]
+},
+{
+  "month": 12,
+  "day": 4,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ មានទស្សនៈសម្រាប់ពិភពលោក",
+  "verse": "ដូច្នេះ ចូរ​ទៅ​បញ្ចុះបញ្ចូល​ឲ្យ​មនុស្ស​គ្រប់​សាសន៍​បាន​ធ្វើ​ជា​សិស្ស ហើយ​ធ្វើ​បុណ្យ​ជ្រមុជ​ទឹក​ឲ្យ ដោយ​នូវ​ព្រះនាម​ព្រះវរបិតា ព្រះរាជបុត្រា និង​ព្រះវិញ្ញាណ​បរិសុទ្ធ ទាំង​បង្រៀន​គេ​ឲ្យ​កាន់​តាម​គ្រប់​ទាំង​សេចក្តី ដែល​ខ្ញុំ​បាន​បង្គាប់​មក​អ្នក​រាល់​គ្នា​ផង ហើយ​មើល ខ្ញុំ​នៅ​ជា​មួយ​នឹង​អ្នក​រាល់​គ្នា​ជា​រាល់​ថ្ងៃ ដរាប​ដល់​បំផុត​កល្ប រៀង​រាប​ត​ទៅ ម៉ាថាយ 28:19-20",
+  "questions": [
+    "តើព្រះកំពុងត្រាស់ហៅយើងឲ្យធ្វើអ្វី?",
+    "តើយើងត្រូវបញ្ចុះបញ្ចូលមនុស្សឲ្យធ្វើជាសិស្សក្នុងព្រះនាមរបស់អ្នកណា?",
+    "តើអ្នកណានឹងគង់នៅជាមួយយើង?"
+  ]
+},
+{
+  "month": 12,
+  "day": 11,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ សេចក្តីស្រឡាញ់",
+  "verse": "កូន​តូចៗ​អើយ កុំ​ឲ្យ​យើង​ស្រឡាញ់​គ្នា​តែ​ដោយ​ពាក្យ​សំដី និង​បបូរ​មាត់​ឡើយ គឺ​ត្រូវ​ស្រឡាញ់​ដោយ​ការ​ប្រព្រឹត្ត និង​សេចក្តី​ពិត​វិញ ១ យ៉ូហាន 3:18",
+  "questions": [
+    "តើយើងត្រូវស្រឡាញ់ដោយរបៀបណា?",
+    "តើយើងមិនត្រូវស្រឡាញ់តែដោយអ្វី?",
+    "តើអ្នកបានបង្ហាញសេចក្តីស្រឡាញ់ដល់អ្នកដទៃដោយរបៀបណា?"
+  ]
+},
+{
+  "month": 12,
+  "day": 18,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ ភាពរាបសា",
+  "verse": "រីឯ​ពួក​ក្មេងៗ​អើយ ចូរ​ចុះ​ចូល​នឹង​ពួក​ចាស់​ទុំ​ដែរ ហើយ​អ្នក​រាល់​គ្នា​ទាំង​អស់ ត្រូវ​ប្រដាប់​ខ្លួន​ដោយ​សេចក្តី​រាបសា ទុក​ចិត្ត​គ្នា​ទៅ​វិញ​ទៅ​មក ដ្បិត​ព្រះ​ទ្រង់​ទាស់​នឹង​មនុស្ស​អំនួត តែ​ផ្តល់​ព្រះគុណ​ដល់​មនុស្ស​រាបសា ដូច្នេះ ចូរ​បន្ទាប​ខ្លួន​នៅ​ក្រោម​ព្រះហស្ត​ដ៏​មាន​ព្រះចេស្តា​នៃ​ព្រះ ដើម្បី​ទ្រង់​នឹង​លើក​អ្នក​រាល់​គ្នា​ឡើង នៅ​វេលា​ដ៏​សម​គួរ ១ ពេត្រុស 5:5-6",
+  "questions": [
+    "តើយើងត្រូវប្រដាប់ខ្លួនដោយអ្វី?",
+    "តើព្រះទ្រង់ទាស់នឹងអ្នកណា?",
+    "ហេតុអ្វីយើងត្រូវបន្ទាបខ្លួន?"
+  ]
+},
+{
+  "month": 12,
+  "day": 25,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ ភាពបរិសុទ្ធ",
+  "verse": "ពួក​ស្ងួនភ្ងា​អើយ ខ្ញុំ​ទូន្មាន​អ្នក​រាល់​គ្នា ដូច​ជា​អ្នក​ដទៃ និង​ជា​អ្នក​ស្នាក់​នៅ​បណ្តោះ​អាសន្ន ឲ្យ​វៀរ​ចេញ​ពី​សេចក្តី​ប៉ង​ប្រាថ្នា​ខាង​សាច់​ឈាម ដែល​ច្បាំង​ទាស់​នឹង​ព្រលឹង ១ ពេត្រុស 2:11",
+  "questions": [
+    "តើយើងត្រូវបានទូន្មានឲ្យធ្វើអ្វី?",
+    "តើយើងជាអ្វីនៅក្នុងលោកីយ៍នេះ?",
+    "តើអ្វីកំពុងច្បាំងទាស់នឹងព្រលឹងរបស់យើង?"
+  ]
+}
+  
