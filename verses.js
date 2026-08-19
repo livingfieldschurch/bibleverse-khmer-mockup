@@ -131,149 +131,151 @@ const VERSES = [
     "តើអ្នកអំពាវនាវរកទ្រង់សុំជំនួយឬទេ?"
   ]
 },
-  {
-    "month": 4,
-    "day": 3,
-    "title": "IV. Be Christ's Disciple: Put Christ first",
-    "verse": "But seek first his kingdom and his righteousness, and all these things will be given to you as well. Matthew 6:33",
-    "questions": [
-      "What does it mean to put Christ first?",
-      "What will be given to us if we seek Christ?",
-      "Are you seeking Christ?"
-    ]
-  },
-  {
-    "month": 4,
-    "day": 10,
-    "title": "IV. Be Christ's Disciple: Separate from the world",
-    "verse": "Do not love the world or anything in the world. If anyone loves the world, the love of the Father is not in him. For everything in the world--the cravings of sinful man, the lust of his eyes and the boasting of what he has and does--comes not from the Father but from the world. 1 John 2:15-16",
-    "questions": [
-      "Why shouldn't we love the world?",
-      "What comes from the world?",
-      "Do you love the things of the world?"
-    ]
-  },
-  {
-    "month": 4,
-    "day": 17,
-    "title": "IV. Be Christ's Disciple: Be steadfast",
-    "verse": "Therefore, my dear brothers, stand firm. Let nothing move you. Always give yourselves fully to the work of the Lord, because you know that your labor in the Lord is not in vain. 1 Corinthians 15:58",
-    "questions": [
-      "Why should we stand firm?",
-      "What should we give ourselves to?",
-      "What do we know about our labor in the Lord?"
-    ]
-  },
-  {
-    "month": 4,
-    "day": 24,
-    "title": "IV. Be Christ's Disciple: Serve others",
-    "verse": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many. Mark 10:45",
-    "questions": [
-      "Why did the Son of Man come?",
-      "Who did He give His life for?",
-      "Are you a servant?"
-    ]
-  },
-  {
-    "month": 5,
-    "day": 1,
-    "title": "IV. Be Christ's Disciple: Give generously",
-    "verse": "Honor the LORD with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing, and your vats will brim over with new wine. Proverbs 3:9-10",
-    "questions": [
-      "What are we to honor the LORD with?",
-      "What will happen when we honor God?",
-      "Do you honor God with your firstfruits?"
-    ]
-  },
-  {
-    "month": 5,
-    "day": 8,
-    "title": "IV. Be Christ's Disciple: Develop world vision",
-    "verse": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth. Acts 1:8",
-    "questions": [
-      "What will we receive with power?",
-      "Who are we to witness for?",
-      "Where are we to witness?"
-    ]
-  },
-  {
-    "month": 5,
-    "day": 15,
-    "title": "V.  Grow in Christ's Likeness: Love",
-    "verse": "A new command I give you: Love one another. As I have loved you, so you must love one another. By this all men will know that you are my disciples, if you love one another. John 13:34-35",
-    "questions": [
-      "What is the command that we're given?",
-      "Why must we love one another?",
-      "What will this show?"
-    ]
-  },
-  {
-    "month": 5,
-    "day": 22,
-    "title": "V.  Grow in Christ's Likeness: Humility",
-    "verse": "Do nothing out of selfish ambition or vain conceit, but in humility consider others better than yourselves. Each of you should look not only to your own interests, but also to the interests of others. Philippians 2:3-4",
-    "questions": [
-      "What are we to do with humility?",
-      "Whose interest should we look out for?",
-      "How is this like Christ?"
-    ]
-  },
-  {
-    "month": 5,
-    "day": 29,
-    "title": "V.  Grow in Christ's Likeness: Purity",
-    "verse": "But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people. Ephesians 5:3",
-    "questions": [
-      "What is improper for God’s holy people?",
-      "What does not even a hint mean?",
-      "Why does God want us to be pure?"
-    ]
-  },
-  {
-    "month": 6,
-    "day": 5,
-    "title": "V.  Grow in Christ's Likeness: Honesty",
-    "verse": "Do not steal. Do not lie. Do not deceive one another. Leviticus 19:11",
-    "questions": [
-      "What are we not to do?",
-      "Why shouldn’t we do it?",
-      "How hard is it for you?"
-    ]
-  },
-  {
-    "month": 6,
-    "day": 12,
-    "title": "V.  Grow in Christ's Likeness: Faith",
-    "verse": "And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him. Hebrews 11:6",
-    "questions": [
-      "Why is it impossible to please God without faith?",
-      "What does it mean to believe?",
-      "How does He reward those who seek Him?"
-    ]
-  },
-  {
-    "month": 6,
-    "day": 19,
-    "title": "V.  Grow in Christ's Likeness: Good deeds",
-    "verse": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up. Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers. Galatians 6:9-10",
-    "questions": [
-      "Do you get tired of doing good?",
-      "Who should we do good to?",
-      "Who especially should we do good to?"
-    ]
-  },
-  {
-    "month": 6,
-    "day": 26,
-    "title": "I.  Live the new life: Christ the Center",
-    "verse": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I live in the body, I live by faith in the Son of God, who loved me and gave himself for me. Galatians 2:20",
-    "questions": [
-      "What does it mean to be crucified with Christ?",
-      "Who is living our life?",
-      "Who are you living for?"
-    ]
-  },
+ ```javascript
+{
+  "month": 4,
+  "day": 3,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ ដាក់ព្រះគ្រីស្ទជាទីមួយ",
+  "verse": "ចូរ​ស្វែង​រក​ព្រះរាជ្យ​នៃ​ព្រះ និង​សេចក្តី​សុចរិត​របស់​ទ្រង់​ជា​មុន​សិន នោះ​របស់​ទាំង​នោះ​នឹង​បាន​ប្រទាន​មក​អ្នក​រាល់​គ្នា​ថែម​ទៀត​ផង ម៉ាថាយ 6:33",
+  "questions": [
+    "តើការដាក់ព្រះគ្រីស្ទជាទីមួយមានន័យដូចម្តេច?",
+    "តើយើងនឹងទទួលអ្វី ប្រសិនបើយើងស្វែងរកព្រះជាមុន?",
+    "តើអ្នកកំពុងស្វែងរកព្រះគ្រីស្ទឬទេ?"
+  ]
+},
+{
+  "month": 4,
+  "day": 10,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ បែកចេញពីលោកីយ៍",
+  "verse": "កុំ​ស្រឡាញ់​លោកីយ៍ ឬ​របស់​អ្វី​ដែល​នៅ​ក្នុង​លោកីយ៍​ឡើយ បើ​អ្នក​ណា​ស្រឡាញ់​លោកីយ៍ នោះ​គ្មាន​សេចក្តី​ស្រឡាញ់​របស់​ព្រះវរបិតា​នៅ​ក្នុង​អ្នក​នោះ​ទេ ដ្បិត​គ្រប់​ទាំង​អស់​ដែល​នៅ​ក្នុង​លោកីយ៍ គឺ​សេចក្តី​ប៉ង​ប្រាថ្នា​របស់​សាច់​ឈាម សេចក្តី​ប៉ង​ប្រាថ្នា​របស់​ភ្នែក និង​ការ​អួត​អាង​ក្នុង​ជីវិត នោះ​មិន​មែន​មក​ពី​ព្រះវរបិតា​ទេ គឺ​មក​ពី​លោកីយ៍​វិញ ១ យ៉ូហាន 2:15-16",
+  "questions": [
+    "ហេតុអ្វីយើងមិនគួរស្រឡាញ់លោកីយ៍?",
+    "តើអ្វីខ្លះមកពីលោកីយ៍?",
+    "តើអ្នកស្រឡាញ់របស់របរនៅក្នុងលោកីយ៍ឬទេ?"
+  ]
+},
+{
+  "month": 4,
+  "day": 17,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ ឈរមាំមួន",
+  "verse": "ដូច្នេះ បង​ប្អូន​ស្ងួន​ភ្ងា​អើយ ចូរ​ឲ្យ​មាំមួន​ឥត​រង្គើ​ឡើយ ចូរ​ធ្វើ​ការ​ថ្វាយ​ព្រះអម្ចាស់​ឲ្យ​បាន​កាន់​តែ​ច្រើន​ជា​ដរាប ពី​ព្រោះ​អ្នក​រាល់​គ្នា​ដឹង​ថា ការ​នឿយ​ហត់​របស់​ខ្លួន​ក្នុង​ព្រះអម្ចាស់ មិន​មែន​ជា​ការ​ឥត​ប្រយោជន៍​ទេ ១ កូរិនថូស 15:58",
+  "questions": [
+    "ហេតុអ្វីយើងគួរឈរមាំមួន?",
+    "តើយើងគួរថ្វាយខ្លួនធ្វើអ្វី?",
+    "តើយើងដឹងអ្វីអំពីការនឿយហត់របស់យើងក្នុងព្រះអម្ចាស់?"
+  ]
+},
+{
+  "month": 4,
+  "day": 24,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ បម្រើអ្នកដទៃ",
+  "verse": "ដ្បិត​សូម្បី​តែ​កូន​មនុស្ស ក៏​មិន​បាន​មក ដើម្បី​នឹង​ឲ្យ​គេ​បំរើ​ទ្រង់​ដែរ គឺ​ដើម្បី​នឹង​បំរើ​គេ​វិញ ហើយ​នឹង​ប្រទាន​ជីវិត​ទ្រង់ ទុក​ជា​ថ្លៃ​លោះ​មនុស្ស​ជា​ច្រើន​ផង ម៉ាកុស 10:45",
+  "questions": [
+    "ហេតុអ្វីបានជាកូនមនុស្សយាងមក?",
+    "តើទ្រង់បានប្រទានជីវិតរបស់ទ្រង់សម្រាប់អ្នកណា?",
+    "តើអ្នកជាអ្នកបម្រើឬទេ?"
+  ]
+},
+{
+  "month": 5,
+  "day": 1,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ ផ្តល់ដោយសប្បុរស",
+  "verse": "ចូរ​ថ្វាយ​កិត្តិនាម ដល់​ព្រះយេហូវ៉ា ដោយ​ទ្រព្យ​សម្បត្តិ ហើយ​នឹង​ផល​ដំបូង ពី​សេចក្តី​ចំរើន​របស់​ឯង​ទាំង​អម្បាលម៉ាន​ចុះ យ៉ាង​នោះ អស់​ទាំង​ជង្រុក​ឯង​នឹង​បាន​ពេញ​បរិបូរ ឯង​អស់​ទាំង​ធុង​ឯង នឹង​បាន​ទឹក​ទំពាំងបាយជូរ​ហូរហៀរ​ផង សុភាសិត 3:9-10",
+  "questions": [
+    "តើយើងត្រូវថ្វាយកិត្តិនាមដល់ព្រះយេហូវ៉ាដោយអ្វី?",
+    "តើនឹងមានអ្វីកើតឡើងនៅពេលយើងថ្វាយកិត្តិនាមដល់ព្រះ?",
+    "តើអ្នកថ្វាយផលដំបូងរបស់អ្នកដល់ព្រះឬទេ?"
+  ]
+},
+{
+  "month": 5,
+  "day": 8,
+  "title": "ធ្វើជាសិស្សរបស់ព្រះគ្រីស្ទ៖ មានទស្សនៈសម្រាប់ពិភពលោក",
+  "verse": "ប៉ុន្តែ កាល​ណា​ព្រះវិញ្ញាណ​បរិសុទ្ធ​បាន​យាង​មក​សណ្ឋិត​លើ​អ្នក​រាល់​គ្នា នោះ​អ្នក​រាល់​គ្នា​នឹង​បាន​ទទួល​ព្រះចេស្តា ហើយ​នឹង​ធ្វើ​ជា​សាក្សី​ពី​ខ្ញុំ នៅ​ក្រុង​យេរូសាឡិម និង​ស្រុក​យូដា​ទាំង​មូល ព្រម​ទាំង​ស្រុក​សាម៉ារី ហើយ​ដល់​ចុង​បំផុត​ផែនដី​ផង កិច្ចការ 1:8",
+  "questions": [
+    "តើយើងនឹងទទួលអ្វី នៅពេលព្រះវិញ្ញាណបរិសុទ្ធយាងមក?",
+    "តើយើងត្រូវធ្វើជាសាក្សីអំពីអ្នកណា?",
+    "តើយើងត្រូវធ្វើជាសាក្សីនៅទីណាខ្លះ?"
+  ]
+},
+{
+  "month": 5,
+  "day": 15,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ សេចក្តីស្រឡាញ់",
+  "verse": "ខ្ញុំ​ឲ្យ​បញ្ញត្តិ​ថ្មី​១​ដល់​អ្នក​រាល់​គ្នា គឺ​ឲ្យ​ស្រឡាញ់​គ្នា​ទៅ​វិញ​ទៅ​មក ដូច​ជា​ខ្ញុំ​បាន​ស្រឡាញ់​អ្នក​រាល់​គ្នា​ដែរ គឺ​ត្រូវ​ឲ្យ​អ្នក​រាល់​គ្នា​ស្រឡាញ់​គ្នា​ទៅ​វិញ​ទៅ​មក​ដូច្នោះ​ឯង បើ​អ្នក​រាល់​គ្នា​មាន​សេចក្តី​ស្រឡាញ់​ដល់​គ្នា​ទៅ​វិញ​ទៅ​មក នោះ​មនុស្ស​ទាំង​អស់​នឹង​ដឹង​ថា អ្នក​រាល់​គ្នា​ជា​សិស្ស​របស់​ខ្ញុំ​ហើយ យ៉ូហាន 13:34-35",
+  "questions": [
+    "តើអ្វីជាបញ្ញត្តិដែលយើងបានទទួល?",
+    "ហេតុអ្វីយើងត្រូវស្រឡាញ់គ្នាទៅវិញទៅមក?",
+    "តើសេចក្តីស្រឡាញ់នេះនឹងបង្ហាញអ្វី?"
+  ]
+},
+{
+  "month": 5,
+  "day": 22,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ ភាពរាបសា",
+  "verse": "កុំ​ឲ្យ​ធ្វើ​អ្វី ដោយ​ចិត្ត​ប្រកួត​ប្រជែង ឬ​ដោយ​សេចក្តី​អួត​អាង​ឡើយ តែ​ដោយ​ចិត្ត​សុភាព ត្រូវ​រាប់​អ្នក​ដទៃ​ថា​ល្អ​ជាង​ខ្លួន​វិញ ម្នាក់ៗ​មិន​ត្រូវ​គិត​តែ​ពី​ប្រយោជន៍​ខ្លួន​ប៉ុណ្ណោះ​ទេ គឺ​ត្រូវ​គិត​ពី​ប្រយោជន៍​របស់​អ្នក​ដទៃ​ផង ភីលីព 2:3-4",
+  "questions": [
+    "តើយើងត្រូវធ្វើអ្វីដោយភាពរាបសា?",
+    "តើយើងគួរគិតគូរពីប្រយោជន៍របស់អ្នកណា?",
+    "តើការនេះដូចព្រះគ្រីស្ទដោយរបៀបណា?"
+  ]
+},
+{
+  "month": 5,
+  "day": 29,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ ភាពបរិសុទ្ធ",
+  "verse": "ឯ​អំពើ​កំផិត សេចក្តី​ស្មោកគ្រោក​គ្រប់​យ៉ាង និង​សេចក្តី​លោភ​លន់ នោះ​មិន​ត្រូវ​ឲ្យ​មាន​ឮ​ក្នុង​ពួក​អ្នក​រាល់​គ្នា​សោះ ដូច​ជា​គួរ​ដល់​ពួក​បរិសុទ្ធ អេភេសូរ 5:3",
+  "questions": [
+    "តើអ្វីមិនសមរម្យសម្រាប់ប្រជាជនដ៏បរិសុទ្ធរបស់ព្រះ?",
+    "តើការមិនគួរឲ្យមានសូម្បីតែឮ មានន័យដូចម្តេច?",
+    "ហេតុអ្វីព្រះចង់ឲ្យយើងមានភាពបរិសុទ្ធ?"
+  ]
+},
+{
+  "month": 6,
+  "day": 5,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ ភាពស្មោះត្រង់",
+  "verse": "កុំ​ឲ្យ​លួច កុំ​ឲ្យ​កុហក ក៏​កុំ​ឲ្យ​បោក​បញ្ឆោត​គ្នា​ទៅ​វិញ​ទៅ​មក​ដែរ លេវីវិន័យ 19:11",
+  "questions": [
+    "តើយើងមិនត្រូវធ្វើអ្វីខ្លះ?",
+    "ហេតុអ្វីយើងមិនគួរធ្វើដូច្នេះ?",
+    "តើការធ្វើតាមនេះពិបាកសម្រាប់អ្នកកម្រិតណា?"
+  ]
+},
+{
+  "month": 6,
+  "day": 12,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ សេចក្តីជំនឿ",
+  "verse": "ឯ​បើ​គ្មាន​សេចក្តី​ជំនឿ​ទេ នោះ​មិន​អាច​នឹង​គាប់​ព្រះហឫទ័យ​ដល់​ព្រះ​បាន​ឡើយ ដ្បិត​អ្នក​ណា​ដែល​មក​ឯ​ព្រះ នោះ​ត្រូវ​ជឿ​ថា ទ្រង់​ពិត​ជា​មាន​មែន ហើយ​ទ្រង់​ប្រទាន​រង្វាន់​ដល់​អស់​អ្នក​ដែល​ស្វែង​រក​ទ្រង់​ដោយ​ស្មោះ​អស់​ពី​ចិត្ត ហេព្រើរ 11:6",
+  "questions": [
+    "ហេតុអ្វីមិនអាចគាប់ព្រះហឫទ័យព្រះបាន ដោយគ្មានសេចក្តីជំនឿ?",
+    "តើការជឿមានន័យដូចម្តេច?",
+    "តើទ្រង់ប្រទានរង្វាន់ដល់អ្នកដែលស្វែងរកទ្រង់ដោយរបៀបណា?"
+  ]
+},
+{
+  "month": 6,
+  "day": 19,
+  "title": "លូតលាស់ឲ្យមានលក្ខណៈដូចព្រះគ្រីស្ទ៖ ការប្រព្រឹត្តល្អ",
+  "verse": "កុំ​ឲ្យ​យើង​នឿយ​ណាយ ក្នុង​ការ​ប្រព្រឹត្ត​ល្អ​ឡើយ ដ្បិត​ដល់​កំណត់ នោះ​យើង​នឹង​ច្រូត​កាត់ បើ​យើង​មិន​រសាយ​ចិត្ត​ទេ ដូច្នេះ កាល​ណា​មាន​ឱកាស ចូរ​យើង​ប្រព្រឹត្ត​ល្អ​ដល់​មនុស្ស​ទាំង​អស់​គ្នា ជា​ពិសេស​ដល់​ពួក​អ្នក​ដែល​នៅ​ក្នុង​គ្រួសារ​នៃ​សេចក្តី​ជំនឿ​ផង កាឡាទី 6:9-10",
+  "questions": [
+    "តើអ្នកធ្លាប់នឿយហត់ក្នុងការប្រព្រឹត្តល្អឬទេ?",
+    "តើយើងគួរប្រព្រឹត្តល្អចំពោះអ្នកណា?",
+    "ជាពិសេស តើយើងគួរប្រព្រឹត្តល្អចំពោះអ្នកណា?"
+  ]
+},
+{
+  "month": 6,
+  "day": 26,
+  "title": "រស់នៅក្នុងជីវិតថ្មី៖ ព្រះគ្រីស្ទជាមជ្ឈមណ្ឌល",
+  "verse": "ខ្ញុំ​បាន​ជាប់​ឆ្កាង​ជា​មួយ​នឹង​ព្រះគ្រីស្ទ​ហើយ គឺ​មិន​មែន​ខ្ញុំ​រស់​ទៀត​ទេ គឺ​ព្រះគ្រីស្ទ​ទ្រង់​រស់​នៅ​ក្នុង​ខ្ញុំ​វិញ ឯ​ជីវិត​ដែល​ខ្ញុំ​រស់​នៅ​ក្នុង​សាច់​ឈាម​ឥឡូវ​នេះ នោះ​គឺ​រស់​ដោយ​សេចក្តី​ជំនឿ ដោយ​ជឿ​ដល់​ព្រះរាជបុត្រា​នៃ​ព្រះ ដែល​ទ្រង់​បាន​ស្រឡាញ់​ខ្ញុំ ហើយ​បាន​ប្រគល់​អង្គ​ទ្រង់​ជំនួស​ខ្ញុំ​ផង កាឡាទី 2:20",
+  "questions": [
+    "តើការជាប់ឆ្កាងជាមួយព្រះគ្រីស្ទមានន័យដូចម្តេច?",
+    "តើអ្នកណាកំពុងរស់នៅក្នុងជីវិតរបស់យើង?",
+    "តើអ្នកកំពុងរស់នៅសម្រាប់អ្នកណា?"
+  ]
+},
+```
   {
     "month": 7,
     "day": 3,
