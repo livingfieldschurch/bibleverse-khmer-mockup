@@ -120,17 +120,20 @@ function referenceFromVerse(verse) {
 }
 function renderList() {
   const q = $("search").value.toLowerCase().trim();
+
+  const khmerMonths = [
+    "មករា", "កុម្ភៈ", "មីនា", "មេសា",
+    "ឧសភា", "មិថុនា", "កក្កដា", "សីហា",
+    "កញ្ញា", "តុលា", "វិច្ឆិកា", "ធ្នូ"
+  ];
+
   $("list").innerHTML = VERSES.map((v,i) => ({v,i}))
     .filter(x => !q || JSON.stringify(x.v).toLowerCase().includes(q))
     .map(({v,i}) => {
-  const active = i === currentIndex ? " active" : "";
-  const date = new Date(2026, v.month - 1, v.day)
-    .toLocaleDateString("km-KH-u-nu-khmr", {
-      month: "short",
-      day: "numeric"
-    });
+      const active = i === currentIndex ? " active" : "";
+      const date = `${khmerMonths[v.month - 1]} ${v.day}`;
 
-  return `<button class="verse-row${active}" onclick="display(${i})">
+      return `<button class="verse-row${active}" onclick="display(${i})">
         <span class="date">${date}</span>
         <span class="row-main"><strong>${escapeHtml(v.title.split(":").pop().trim())}</strong><small>${escapeHtml(v.verse)}</small></span>
       </button>`;
