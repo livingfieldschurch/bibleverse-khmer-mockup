@@ -124,7 +124,7 @@ function renderList() {
     .filter(x => !q || JSON.stringify(x.v).toLowerCase().includes(q))
     .map(({v,i}) => {
       const active = i === currentIndex ? " active" : "";
-      const date = new Date(2026, v.month-1, v.day).toLocaleDateString(undefined,{month:"short",day:"numeric"});
+      const date = new Date(2026, v.month-1, v.day).toLocaleDateString("km-KH",{month:"short",day:"numeric"});
       return `<button class="verse-row${active}" onclick="display(${i})">
         <span class="date">${date}</span>
         <span class="row-main"><strong>${escapeHtml(v.title.split(":").pop().trim())}</strong><small>${escapeHtml(v.verse)}</small></span>
